@@ -5,7 +5,3 @@ print("First program for GIT")
 for i in range(1, 11):
     print(i)
 
-#create a while loop to print the numbers 1 to 10
-while i < 11:
-    print(i)
-    i += 1
